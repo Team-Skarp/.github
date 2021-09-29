@@ -8,5 +8,6 @@
 🌈 Jakob Saadbye\
 🍿 David Rasmussen\
 👩‍💻 Ming Hui Sun\
+🌈 Hans Erik Heje\
 🍿 Markus Hye Knudsen\
-🧙 Sture Svenson
+🧙 Sture Svensson

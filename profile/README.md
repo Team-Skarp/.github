@@ -6,6 +6,7 @@
 
 🙋‍♀️ Frederik Bode Thorbensen\
 🌈 Jakob Saadbye\
-👩‍💻 Ming Hui Sung\
+🍿 David Rasmussen\
+👩‍💻 Ming Hui Sun\
 🍿 Markus Hye Knudsen\
 🧙 Sture Svenson

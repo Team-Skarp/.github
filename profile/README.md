@@ -4,10 +4,9 @@
 
 ## Team Members
 
-🙋‍♀️ Frederik Bode Thorbensen\
+👨🏼‍🚀 Frederik Bode Thorbensen\
 🌈 Jakob Saadbye\
-🍿 David Rasmussen\
-👩‍💻 Ming Hui Sun\
+👨‍🦼 Ming Hui Sun\
 🌈 Hans Erik Heje\
 🍿 Markus Hye Knudsen\
 🧙 Sture Svensson
